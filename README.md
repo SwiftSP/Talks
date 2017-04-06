@@ -5,4 +5,4 @@ You can find all the talks from previous meetups
 
 * Marcio Klepacz: [Criando um Micro Web Server em Swift](https://www.slideshare.net/marcioklepacz/building-microwebserver)
 
-* Vítor Makoto: How to build an app with RxSwift
+* Vítor Makoto: [How to build an app with RxSwift](Resources/SwiftSP-Beyond_Delegates.pdf); [Demo](https://github.com/VitorMakoto/rxswift-login)
