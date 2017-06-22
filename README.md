@@ -1,6 +1,14 @@
 # Talks
 You can find all the talks from previous meetups 
 
+
+# [#3 @ ThoughtWorks](https://www.meetup.com/pt-BR/Swift-Sao-Paulo/events/240731536/)
+
+* Felipe Sabino: [Novidades no Swift 4](https://github.com/felipesabino/whats-new-in-swift-4)
+
+* Eduardo Morango: Functional Swift. 
+
+
 # [#2 @ VivaReal](https://www.meetup.com/pt-BR/Swift-Sao-Paulo/events/239334296/)
 
 * Rodrigo Borges: [Migrando para Swift 3](https://www.slideshare.net/rdgborges/migrando-para-o-swift-3)
